@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036439796352",
+    "project_id": "appunti-94570",
+    "storage_bucket": "appunti-94570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036439796352:android:352f9ab5c8d83ba0330465",
+        "android_client_info": {
+          "package_name": "com.example.appunti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036439796352-s5bqant3ueik54aavf4066fea2s9q98m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqnG69-Y_NKxmiWDQM8Uez9M9vdD4W8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036439796352-s5bqant3ueik54aavf4066fea2s9q98m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
